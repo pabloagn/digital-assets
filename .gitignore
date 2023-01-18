@@ -1,0 +1,9 @@
+# .gitignore file for: digital-assets
+# Ignore .obsidian folder on main folder
+.obsidian/
+
+# Ignore repo raw .jpg & .xfc cover images
+RAW/
+
+# Ignore desktop.ini
+desktop.ini
